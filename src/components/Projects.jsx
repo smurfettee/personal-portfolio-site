@@ -2,40 +2,22 @@ import ProjectCard from "./ProjectCard";
 
 const PROJECTS = [
   {
-    title: "Signal",
-    description: "Real-time log aggregator with anomaly alerts for small teams.",
-    tags: ["React", "Node", "WebSockets"],
-    href: "#",
+    title: "Limit Order Book",
+    description: "A limit order book matching engine.",
+    tags: ["C++"],
+    href: "https://github.com/smurfettee/limit-order-book",
   },
   {
-    title: "Driftwood",
-    description: "A local-first notes app that syncs peer-to-peer, no server required.",
-    tags: ["TypeScript", "CRDT", "IndexedDB"],
-    href: "#",
+    title: "ERC20 Token",
+    description: "ERC20 token smart contract with minting and burning capabilities.",
+    tags: ["JavaScript", "Solidity", "Hardhat"],
+    href: "https://github.com/smurfettee/erc20-my-token",
   },
   {
-    title: "Pixel Forge",
-    description: "Browser-based sprite editor with onion-skin animation preview.",
-    tags: ["Canvas", "React", "WASM"],
-    href: "#",
-  },
-  {
-    title: "Quarry",
-    description: "CLI that mines a codebase for dead exports and unused routes.",
-    tags: ["Rust", "CLI"],
-    href: "#",
-  },
-  {
-    title: "Loopback",
-    description: "Self-hosted webhook inspector with replay and diffing.",
-    tags: ["Go", "Docker", "SQLite"],
-    href: "#",
-  },
-  {
-    title: "Static Noise",
-    description: "Generative audio-visual toy built on the Web Audio API.",
-    tags: ["JavaScript", "Web Audio", "Canvas"],
-    href: "#",
+    title: "Coinsafe",
+    description: "A website that lets users search for information about various cryptocurrencies in real-time.",
+    tags: ["React", "Tailwind", "Node.js"],
+    href: "https://github.com/smurfettee/Crypto-Site",
   },
 ];
 

@@ -38,14 +38,7 @@ function About() {
 
         <p className="text-ink-muted">
           I'm a full-stack developer who likes building things. I spend most
-          of my time developing and chasing the small details that make
-          software feel alive.
-        </p>
-
-        <p className="text-ink-muted">
-          When I'm not shipping features, I'm probably tinkering with side
-          projects or rebuilding something that already worked just to make
-          it better.
+          of my time developing and playing video games.
         </p>
 
         <p className="font-heading text-sm text-accent-cyan">
